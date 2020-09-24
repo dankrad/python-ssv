@@ -37,5 +37,5 @@ print()
 
 for i, p in enumerate(printable_privkeys):
     print("threshold_key_{0}.json".format(i))
-    print('{"keys":[{"validator_key":"'+p+'","withdrawal_key":"JSlfDR1ZKpCzM+JuhRSXCCCOn46LwY9sd71i+K16aGY="}]}')
+    print('{"keys":[{"validator_key":"'+p+'","withdrawal_key":""}]}')
     print()
